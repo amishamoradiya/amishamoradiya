@@ -1,3 +1,4 @@
+![logo](https://github.com/amishamoradiya/amishamoradiya/blob/main/Amisha%20Moradiya.png)
 <h1 align="center">Hi 👋, I'm Amisha Moradiya</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
